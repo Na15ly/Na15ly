@@ -2,7 +2,7 @@
 
 Meu nome é Natally Santos
 
-- Sou uma estudante do curso Alura
+- Sou uma estudante do curso [Alura](https://www.Alura.com.br)
 - Estou aprendendo a me adaptar no JavaScript
 - Utilizo esse espaço para minha organização e compartilhar mesu projetos
 
